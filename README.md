@@ -1,6 +1,38 @@
-# ereceipt
+# Open-source and fully functional digital signature app "E-Gol" 😽
 
-A new Flutter project.
+Don't forget to star⭐ the repo if you like what you i have created😉.
+[![Github Follow](https://img.shields.io/github/followers/ruslanbek0809?style=social)](https://github.com/Ruslanbek0809)
+
+
+## 📸 ScreenShots
+
+| 1 | 2|
+|------|-------|
+|<img src="ss/1.png" width="300">|<img src="ss/2.png" width="300">|
+
+| 3 | 4|
+|------|-------|
+|<img src="ss/3.png" width="300">|<img src="ss/4.png" width="300">|
+
+| 5 | 6|
+|------|-------|
+|<img src="ss/5.png" width="300">|<img src="ss/6.png" width="300">|
+
+| 7 | 8|
+|------|-------|
+|<img src="ss/7.png" width="300">|<img src="ss/8.png" width="300">|
+
+| 9 | 10|
+|------|-------|
+|<img src="ss/9.png" width="300">|<img src="ss/10.png" width="300">|
+
+
+
+# ✨ Requirements
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+- A little knowledge of Dart and Flutter
+- Some fingers to code 😂
 
 ## Getting Started
 
