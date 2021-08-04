@@ -8,23 +8,23 @@ Don't forget to star⭐ the repo if you like what you i have created😉.
 
 | 1 | 2|
 |------|-------|
-|<img src="ss/1.png" width="300">|<img src="ss/2.png" width="300">|
+|<img src="screenshots/1.jpg" width="300">|<img src="screenshots/2.jpg" width="300">|
 
 | 3 | 4|
 |------|-------|
-|<img src="ss/3.png" width="300">|<img src="ss/4.png" width="300">|
+|<img src="screenshots/3.jpg" width="300">|<img src="screenshots/4.jpg" width="300">|
 
 | 5 | 6|
 |------|-------|
-|<img src="ss/5.png" width="300">|<img src="ss/6.png" width="300">|
+|<img src="screenshots/5.jpg" width="300">|<img src="screenshots/6.jpg" width="300">|
 
 | 7 | 8|
 |------|-------|
-|<img src="ss/7.png" width="300">|<img src="ss/8.png" width="300">|
+|<img src="screenshots/7.jpg" width="300">|<img src="screenshots/8.jpg" width="300">|
 
 | 9 | 10|
 |------|-------|
-|<img src="ss/9.png" width="300">|<img src="ss/10.png" width="300">|
+|<img src="screenshots/9.jpg" width="300">|<img src="screenshots/10.jpg" width="300">|
 
 
 
