@@ -1,4 +1,4 @@
-# Open-source and fully functional digital signature app "E-Gol" 😽
+# A fully functional digital signature app "E-Gol" 😽
 
 Don't forget to star⭐ the repo if you like what I have created😉.
 [![Github Follow](https://img.shields.io/github/followers/ruslanbek0809?style=social)](https://github.com/Ruslanbek0809)
