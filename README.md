@@ -6,27 +6,21 @@ Don't forget to star⭐ the repo if you like what I have created😉.
 
 ## 📸 ScreenShots
 
-| 1 | 2|
-|------|-------|
-|<img src="screenshots/1.jpg" width="300">|<img src="screenshots/2.jpg" width="300">|
+| 1 | 2| 3|
+|------|-------|-------|
+|<img src="screenshots/1.jpg" width="200">|<img src="screenshots/2.jpg" width="200">|<img src="screenshots/3.jpg" width="200">|
 
-| 3 | 4|
-|------|-------|
-|<img src="screenshots/3.jpg" width="300">|<img src="screenshots/4.jpg" width="300">|
+| 4 | 5| 6|
+|------|-------|-------|
+|<img src="screenshots/4.jpg" width="200">|<img src="screenshots/5.jpg" width="200">|<img src="screenshots/6.jpg" width="200">|
 
-| 5 | 6|
-|------|-------|
-|<img src="screenshots/5.jpg" width="300">|<img src="screenshots/6.jpg" width="300">|
+| 7 | 8| 9|
+|------|-------|-------|
+|<img src="screenshots/7.jpg" width="200">|<img src="screenshots/8.jpg" width="200">|<img src="screenshots/9.jpg" width="200">|
 
-| 7 | 8|
-|------|-------|
-|<img src="screenshots/7.jpg" width="300">|<img src="screenshots/8.jpg" width="300">|
-
-| 9 | 10|
-|------|-------|
-|<img src="screenshots/9.jpg" width="300">|<img src="screenshots/10.jpg" width="300">|
-
-
+| 10 | 
+|------|
+|<img src="screenshots/10.jpg" width="200">|
 
 # ✨ Requirements
 - Any Operating System (ie. MacOS X, Linux, Windows)
